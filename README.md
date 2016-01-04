@@ -25,3 +25,7 @@ verbinding tussen tussen IOIO en eindgebruiker kan met de telefoon:
 Tegenwoordig maken veel energieleveranciers gebruik van Huis Automatisation. Ook Essent en Enco gebruiken dit systeem, maar dan een uitgebreidere variant. 
 
 Ik gebruik in de eerste versie een IOIO Board die via bluetooth verbinding maakt met de smartphone en zo ook alle outputs kan controleren.
+##references
+1- https://www.antratek.nl/ioio-otg-for-android
+2- https://github.com/ytai/ioio/wiki
+
